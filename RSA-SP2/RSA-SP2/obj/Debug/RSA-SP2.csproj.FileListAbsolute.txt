@@ -1,0 +1,10 @@
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\bin\Debug\RSA-SP2.exe.config
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\bin\Debug\RSA-SP2.exe
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\bin\Debug\RSA-SP2.pdb
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\obj\Debug\RSA-SP2.csproj.AssemblyReference.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\obj\Debug\RSA_SP2.Form1.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\obj\Debug\RSA_SP2.Properties.Resources.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\obj\Debug\RSA-SP2.csproj.GenerateResource.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\obj\Debug\RSA-SP2.csproj.CoreCompileInputs.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\obj\Debug\RSA-SP2.exe
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\RSA-SP\RSA-SP2\RSA-SP2\obj\Debug\RSA-SP2.pdb
